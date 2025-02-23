@@ -1,9 +1,5 @@
 flask
-fastapi
-pytesseract
-opencv-python
-numpy
-pdf2image
-Pillow
 gunicorn
-
+fastapi
+uvicorn
+gunicorn
