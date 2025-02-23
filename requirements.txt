@@ -1,6 +1,4 @@
 flask
-pytesseract
 opencv-python-headless
+PyMuPDF
 numpy
-pdf2image
-gunicorn
